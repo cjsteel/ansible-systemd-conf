@@ -6,5 +6,6 @@ systemd_conf_netdev: {}
 systemd_conf_network: {}
 systemd_conf_service: {}
 systemd_conf_timer: {}
+systemd_conf_socket: {}
 
 # vim: set ts=2 sw=2:
